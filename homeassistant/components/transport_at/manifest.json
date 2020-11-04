@@ -1,0 +1,7 @@
+{
+  "domain": "transport_AT",
+  "name": "Transport AT",
+  "documentation": "https://www.home-assistant.io/integrations/transport_at",
+  "requirements": ["PyTransportAT==0.1"],
+  "codeowners": ["Github: Mattallmighty"]
+}
